@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\CSharparray\CSharparray\bin\Debug\net6.0\CSharparray.exe
+C:\Users\User\Desktop\CSharparray\CSharparray\bin\Debug\net6.0\CSharparray.deps.json
+C:\Users\User\Desktop\CSharparray\CSharparray\bin\Debug\net6.0\CSharparray.runtimeconfig.json
+C:\Users\User\Desktop\CSharparray\CSharparray\bin\Debug\net6.0\CSharparray.dll
+C:\Users\User\Desktop\CSharparray\CSharparray\bin\Debug\net6.0\CSharparray.pdb
+C:\Users\User\Desktop\CSharparray\CSharparray\obj\Debug\net6.0\CSharparray.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CSharparray\CSharparray\obj\Debug\net6.0\CSharparray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\CSharparray\CSharparray\obj\Debug\net6.0\CSharparray.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CSharparray\CSharparray\obj\Debug\net6.0\CSharparray.AssemblyInfo.cs
+C:\Users\User\Desktop\CSharparray\CSharparray\obj\Debug\net6.0\CSharparray.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CSharparray\CSharparray\obj\Debug\net6.0\CSharparray.dll
+C:\Users\User\Desktop\CSharparray\CSharparray\obj\Debug\net6.0\refint\CSharparray.dll
+C:\Users\User\Desktop\CSharparray\CSharparray\obj\Debug\net6.0\CSharparray.pdb
+C:\Users\User\Desktop\CSharparray\CSharparray\obj\Debug\net6.0\CSharparray.genruntimeconfig.cache
+C:\Users\User\Desktop\CSharparray\CSharparray\obj\Debug\net6.0\ref\CSharparray.dll
